@@ -1,4 +1,4 @@
-Twitter Honeybots
+**Twitter Honeybots**
 
 This repo provides an ongoing blocklist for activity related to the Twitter Honeypot Bots. 
 
