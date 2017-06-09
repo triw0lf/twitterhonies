@@ -1,0 +1,10 @@
+   #MSSQL attacked from 121.15.200.4(AS4134-CHINANET Guangdong province networkChina TelecomNo.31),China.#blacklisted. Details at
+   HyPy6: #CIFS Possible CIFS attack from 45.32.235.218 
+   HyPy7: #CIFS Possible CIFS attack from 2.60.20.150 
+   Sgp1: #HTTP.alt Possible HTTP.alt attack from 149.9.1.132 
+   Sgp1: #HTTP.alt Possible HTTP.alt attack from 180.167.76.236 
+   Sgp1: #Telnet Possible Telnet attack from 109.228.68.3 
+   Unspecified attack from 195.154.231.2 (
+   HyPy14: #Telnet Possible Telnet attack from 98.115.135.123 
+   HyPy6: #NTP Possible NTP attack from 66.240.219.146 
+   Telnet attacked from 177.5.109.23 (AS8167 Oi)
