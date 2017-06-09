@@ -28,3 +28,23 @@
    HyPy1: #Telnet Possible Telnet attack from 179.216.250.62 
    Mailer attacked from 216.110.74.50 (TWTC-NETBLK-13 US)
    SSH attacked from 61.177.172.36 (AS23650 CN, China)
+   Ams1: #SIP Possible SIP attack from 37.61.220.243 
+   Ams1: #Telnet Possible Telnet attack from 108.12.146.76 
+   Ams1: #Telnet Possible Telnet attack from 180.125.201.73 
+   Ams1: #Telnet Possible Telnet attack from 36.72.197.227 
+   Ams1: #Telnet.IoT Possible Telnet.IoT attack from 95.137.177.238 
+   Bad HTTP request from 115.29.244.26 (AS37963 Aliyun Computing Co., LTD CN)
+   HyPy12: #Telnet Possible Telnet attack from 82.209.250.90 
+   HyPy14: #Telnet Possible Telnet attack from 151.235.124.7 
+   HyPy15: #Telnet Possible Telnet attack from 182.237.159.34 
+   HyPy1: #Telnet Possible Telnet attack from 179.108.181.254 
+   HyPy5: #Telnet Possible Telnet attack from 189.101.178.234 
+   HyPy5: #Telnet Possible Telnet attack from 221.149.34.133 
+   HyPy9: #CIFS Possible CIFS attack from 189.167.192.178 
+   Sgp1: #Telnet Possible Telnet attack from 88.245.68.88 
+   Sgp1: #Telnet Possible Telnet attack from 88.245.68.88 
+   Telnet attacked from 140.250.52.160 (CHINANET SHANDONG PROVINCE NETWORK CN)
+   Telnet attacked from 196.52.43.61 (LogicWeb Inc. ZA)
+   Telnet attacked from 27.157.178.55 (CN, China)
+   Telnet attacked from 58.219.72.45 (CN, China)
+   Telnet attacked from 59.90.97.116 (O/o DGM BB, NOC BSNL Bangalore IN)
