@@ -107,3 +107,23 @@
    HyPy5: #Telnet Possible Telnet attack from 222.171.210.132 
    SSH attacked from 190.214.224.25 (
    Suspicious Activity Captured From: 66.228.36.75 on port 8888 #HITME
+   07/06-18:14z 173.212.220.252->HPKMKE01:5060 - PROTOCOL-VOIP Sipvicious User-Agent detected
+   07/06-18:15z 119.198.249.43->HPKMKE01:1900 - INDICATOR-SCAN UPnP service discover attempt
+   07/06-18:16z 195.154.62.94->HPKMKE01:5060 - PROTOCOL-VOIP Sipvicious User-Agent detected
+   07/06-18:22z 5.189.142.20->HPKMKE01:5060 - PROTOCOL-VOIP Sipvicious User-Agent detected
+   Ams1: #HTTPS Possible HTTPS attack from 46.19.141.102 
+   Bad HTTP request from 112.53.68.98 (CN, China)
+   Bad HTTP request from 118.189.75.42 (M1 NET LTD SG)
+   Bad HTTP request from 118.193.31.179 (Connaught Road Central, Hong Kong HK)
+   Bad HTTP request from 119.10.53.165 (XinNet Technology Corp. CN)
+   Bad HTTP request from 122.97.216.52 (AS4837 China Mobile International Limited)
+   Bad HTTP request from 37.148.209.145 (AS34619 Cizgi Telekom Network TR)
+   Bad HTTP request from 60.12.121.247 (AS4837 CMI (Customer Route) CN)
+   Bad HTTP request from 61.161.253.66 (CN, China)
+   RDP attacked from 184.105.247.252 (AS6939 HURRICANE-11 US)
+   RDP attacked from 185.104.158.114 (AS200485 IQ, Iraq)
+   SSH attacked from 111.201.223.37 (CN, China)
+   SSH attacked from 120.25.81.203 (AS37963 Aliyun Computing Co., LTD CN)
+   SSH attacked from 121.14.7.244 (AS4134 CHINANET Guangdong province network)
+   SSH attacked from 222.47.26.139 (AS9394 CN, China)
+   SSH attacked from 46.44.209.106 (AS21056 IT, Italy)
